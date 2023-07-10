@@ -31,5 +31,8 @@
     "vite": "^4.0.3",
     "vite-plugin-ssr": "^0.4.133"
   },
-  "type": "module"
+  "type": "module",
+  "devDependencies": {
+    "http-proxy": "^1.18.1"
+  }
 }
